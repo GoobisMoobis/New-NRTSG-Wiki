@@ -28,8 +28,8 @@ layout:
 ["Revamped" Wiki](https://normal-real-time-strategy-game-wiki-revamped.fandom.com/wiki/Normal\_Real\_Time\_Strategy\_Game\_Wiki\_\(Revamped\)) (discontinued)
 {% endhint %}
 
-Updated regularly by GoobisMoobis2 (goobismoobisgithub@gmail.com)
+Updated regularly by GoobisMoobis2 <mark style="color:purple;">(goobismoobisgithub@gmail.com)</mark>
 
 
 
-Have a change, question, or comment? Email me! I will try to respond as much as possible. If I don't, message me on Discord. (justa\_rando8888)
+Have a change, question, or comment? Email me! I will try to respond as much as possible. If I don't, message me on Discord. <mark style="color:green;">(justa\_rando8888)</mark>
