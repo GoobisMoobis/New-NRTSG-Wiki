@@ -25,6 +25,8 @@ layout:
 
 [Google Spreadsheet ](https://docs.google.com/spreadsheets/d/1kWp-QbbaPp\_3MjHCaiQhqTuqwIOWysFshlyvLHwIgxA/edit?gid=0#gid=0)with the most current unit data:
 
+[(Prettier Format for the Unit Data)](https://raw.githubusercontent.com/GoobisMoobis/GoobisMoobis/refs/heads/main/PrettierNRTSUnitData.html)
+
 {% embed url="https://docs.google.com/spreadsheets/d/1kWp-QbbaPp_3MjHCaiQhqTuqwIOWysFshlyvLHwIgxA/edit?gid=0#gid=0" %}
 
 {% hint style="warning" %}

@@ -17,3 +17,4 @@ layout:
 
 * **Supply:** How much housing space a particular unit takes up
   * Means how much energy a building takes up if used in the context of a building&#x20;
+* **CC:** Abbreviation for [Command Center](building-data/command-center.md)

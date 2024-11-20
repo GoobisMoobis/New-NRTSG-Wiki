@@ -11,8 +11,8 @@
 
 ## Troop Data
 
-* [Air Units](troop-data/air-units.md)
 * [Infantry (Barracks)](troop-data/infantry-barracks.md)
+* [Air Units](troop-data/air-units.md)
 * [Vehicles](troop-data/vehicles.md)
 * [Naval Units](troop-data/naval-units.md)
 * [Misc](troop-data/misc.md)
