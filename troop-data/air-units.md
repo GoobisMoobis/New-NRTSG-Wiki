@@ -41,11 +41,7 @@ As you may see, a lot of the stats are uncalculated. Please read what I put afte
 
 <summary>Skins</summary>
 
-![](../.gitbook/assets/Regular-Chopper.png)
-
-Base Chopper Skin![](../.gitbook/assets/Top-Hat-Chopper.png)
-
-Tophat Chopper Skin
+![](../.gitbook/assets/Regular-Chopper.png)<-- Base Chopper Skin ![](../.gitbook/assets/Top-Hat-Chopper.png)<-- Tophat Chopper Skin
 
 </details>
 
