@@ -4,7 +4,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -60,6 +60,7 @@ Even if you're chatting, typing F will release the units
 | Attack Damage           | 11           |
 | Attack Speed            | Uncalculated |
 | DPS (Damage Per Second) | Uncalculated |
+| Can Target              | Everything   |
 
 The Chopper is widely considered one of, if not the best unit in NRTS in terms of versatility. It probably has too much damage, is very speedy, and doesn't face the hurdles many ground units do.
 
@@ -87,6 +88,10 @@ Because they're flying, they are also very easily abused to kill enemy CCs becau
 
 Has the same function as the regular [Transport Copter](air-units.md#transport-copter), but can hold 15 units and now can also hold vehicles
 
+{% hint style="warning" %}
+Even if you're chatting, typing F will release the units
+{% endhint %}
+
 <details>
 
 <summary>Skins</summary>
@@ -99,25 +104,26 @@ Has the same function as the regular [Transport Copter](air-units.md#transport-c
 
 ## Hornet
 
-| Statistic Name          | Current Data |
-| ----------------------- | ------------ |
-| Cost                    | 84           |
-| Supply                  | 2            |
-| Training Time           | 30           |
-| HP                      | 70           |
-| Speed                   | 3            |
-| Range                   | 11           |
-| Attack Damage           | Uncalculated |
-| Attack Speed            | Uncalculated |
-| DPS (Damage Per Second) | Uncalculated |
+| Statistic Name          | Current Data            |
+| ----------------------- | ----------------------- |
+| Cost                    | 84                      |
+| Supply                  | 2                       |
+| Training Time           | 30                      |
+| HP                      | 70                      |
+| Speed                   | 3                       |
+| Range                   | 11                      |
+| Attack Damage           | Uncalculated            |
+| Attack Speed            | Uncalculated            |
+| DPS (Damage Per Second) | Uncalculated            |
+| Can Target              | Ground units, Buildings |
 
 The hornet is a unique air unit.
 
 It only targets ground units and does quite a bit of damage.
 
-But it's widely considered the worst unit because it can be not only easily countered by fighters or choppers, but also flies lower than other air units meaning it gets stuck a lot.
+However, it's widely considered the worst unit because it can be easily countered by Fighters or Choppers and flies lower than other air units, meaning it gets stuck a lot.
 
-There's simply no reason to use them over choppers.
+There's simply no reason to use them over Choppers.
 
 <details>
 
@@ -140,10 +146,11 @@ There's simply no reason to use them over choppers.
 | Attack Damage           | Uncalculated |
 | Attack Speed            | Uncalculated |
 | DPS (Damage Per Second) | Uncalculated |
+| Can Target              | Air units    |
 
 Fighters are a special unit that only attack air.
 
-Unlike Hornets only targeting ground, only targetting air whilst doing heavy damage is very good at countering other air units, especially Choppers.
+Unlike Hornets who only target ground units which makes them pretty bad, only targetting air whilst doing heavy damage is very good at countering other air units, especially Choppers.
 
 <details>
 

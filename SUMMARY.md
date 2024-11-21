@@ -8,10 +8,15 @@
 
 * [Command Center](building-data/command-center.md)
 * [Farm](building-data/farm.md)
+* [Air Pad](building-data/air-pad.md)
+* [Barracks](building-data/barracks.md)
+* [Vehicle Depot](building-data/vehicle-depot.md)
+* [Port](building-data/port.md)
+* [Hospital](building-data/hospital.md)
 
 ## Troop Data
 
-* [Infantry (Barracks)](troop-data/infantry-barracks.md)
+* [Infantry](troop-data/infantry.md)
 * [Air Units](troop-data/air-units.md)
 * [Vehicles](troop-data/vehicles.md)
 * [Naval Units](troop-data/naval-units.md)
